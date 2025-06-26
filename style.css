@@ -96,6 +96,7 @@ body {
 .weather {
   display: none;
 }
+/* Error handling message */
 .error {
   text-align: left;
   margin-left: 10px;
